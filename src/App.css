@@ -47,7 +47,8 @@
   /* padding-top: 2em; */
   height: 100vh;
   display: flex;
-  overflow: hidden;
+  overflow-y: auto;
+  overflow-x: hidden;
   flex-direction: column;
 }
 
